@@ -11,15 +11,15 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ThirdwebProvider desiredChainId={activeChainId}>
       <Head>
-        <title>Timetravelapes Minting Page</title>
+        <title>Timetravelapes NFT staking Page</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="description"
-          content="NFT FARM dApp TIMETRAVELAPES"
+          content="STAKE NFT FARM dApp TIMETRAVELAPES"
         />
         <meta
           name="keywords"
-          content="NFT, defi, mint, crypto, AVAX "
+          content="NFT, defi, stake, crypto, AVAX "
         />
       </Head>
       <Component {...pageProps} />
