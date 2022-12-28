@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/": "pages/index.html",
+  "/stakeblue": "pages/stakeblue.html",
+  "/stakecyan": "pages/stakecyan.html",
+  "/stakegold": "pages/stakegold.html",
+  "/stakegreen": "pages/stakegreen.html",
+  "/stakelemon": "pages/stakelemon.html",
+  "/stakemint": "pages/stakemint.html",
+  "/stakered": "pages/stakered.html",
+  "/stakerose": "pages/stakerose.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
